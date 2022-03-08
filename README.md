@@ -4,7 +4,7 @@
 
 #### 1、安装组件库
 ```bash
-npm install car-demo
+npm install card-demo
 ```
 
 #### 2、引用组件库 
