@@ -1,10 +1,10 @@
 {
     "name": "card-demo",
-    "version": "0.1.4",
+    "version": "0.1.5",
     "description": "vue列表组件库",
     "main": "dist/index.umd.js",
     "keywords": [
-        "列表演示",
+        "卡片",
         "vue组件"
     ],
     "author": "LRZ",
