@@ -1,4 +1,4 @@
-# car-demo
+# card-demo
 
 ## 快速开始
 
@@ -10,9 +10,9 @@ npm install card-demo
 #### 2、引用组件库 
 #####组件引入
 ```javascript
-import "car-demo/dist/css/index.css" 
-import Card from 'car-demo/dist/card.umd'
-import Demo from 'car-demo/dist/demo.umd'
+import "card-demo/dist/css/index.css" 
+import Card from 'card-demo/dist/card.umd'
+import Demo from 'card-demo/dist/demo.umd'
 ```
 #####Card组件使用
 ```haml 
